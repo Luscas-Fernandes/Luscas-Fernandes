@@ -12,7 +12,7 @@ Looking to collaborate on GitHub — be it in discussions, open source projects,
 
 Python, React and SQL databases are my comfort zone, though C language and low level understanding holds a special place in my heart, in view my first steps in Comp. Sci.
 
-I've also been building backends with these frameworks:
+I've also been building applications with these frameworks:
 
 <div align="center">
 
