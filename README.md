@@ -2,7 +2,9 @@
 
 I'm Lucas, a software developer based in Brazil 🇧🇷.
 
-Currently working on full stack applications that will help me with my day to day problems.
+Currently working on: 
+- Fullstack applications
+- Myoelectric prosthesis firmware
 
 Looking to collaborate on GitHub — be it in discussions, open source projects, or friends' repositories.
 
